@@ -1,2 +1,2 @@
 # Alarm-uygulaması
-![alarm uygulaması sahberkun](https://user-images.githubusercontent.com/127740853/227474427-e2d683cf-f40b-4624-b086-2b28918fcd25.jpg)
+![alarmmanager mockup](https://github.com/sahberkun/Alarm-uygulamasi/assets/127740853/6cc1ef9d-e59a-411b-a8fc-0611151fdc6c)
